@@ -1,7 +1,8 @@
-.. Credit to PopHippy for creating the orignal PDF file
+.. Credit to PopHippy for creating the original PDF file.
 
 Numark Mixtrack Platinum FX
-========================
+
+==============================
 
 -  `Manufacturer’s product page <https://www.numark.com/product/mixtrack-platinum-fx>`__
 -  `Forum thread <https://mixxx.discourse.group/t/numark-mixtrack-platinum-fx-mapping/19985/215>`__
@@ -12,6 +13,7 @@ Mixtrack Platinum FX is a 24-bit 4-deck digital DJ controller with a dedicated s
 
    The mapping requires the following Soft/Firmware for all enabled
    features to work for Mixxx 2.4
+
 -  `Firmware Update v1.10 MAC <https://cdn.inmusicbrands.com/Numark/MixtrackPlatinumFX/Mixtrack%20Platinum%20FX%20Firmware%201.10%20Mac.zip>`__
 -  `Firmware Update v1.10 WIN <https://cdn.inmusicbrands.com/Numark/MixtrackPlatinumFX/Mixtrack%20Platinum%20FX%20Firmware%201.10%20Win.zip>`__
 - Linux user need to install firmware using Windows or MAC.
@@ -47,8 +49,11 @@ Index
    | 7.Advanced User Section
    | 8.Notes
 
+-------------------------------------
+
    Numark Mixtrack Platinum FX
-..
+
+-------------------------------------
 
    | Overview
    | The pads are for controlling cue’s, loops, and The Numark Mixtrack
@@ -531,23 +536,24 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 |    Mode     |    Cue      |    Auto     |    Fader    |    Samples  |
 |             |             |    Loop     |    Cuts     |             |
 +=============+=============+=============+=============+=============+
-|    | Normal |    Hot Cue  |    Auto     |    | Fader  |    Sample   |
-|    | • (LED |    1-8      |    Loop     |      Cuts   |    1-8      |
-|      On)    |             |             |             |             |
-|             |             |             | | Transport |             |
-+-------------+-------------+-------------+-------------+-------------+
-|    | Shift  |    Hot Cue  |    Roll     |    Fader    |    Sample   |
-|    | Shift  |    9-16     |    Loop     |    Cuts 8   |    9-16     |
-|      +Mode  |             |             |             |             |
-|    | Button |             |             |             |             |
+| Normal      |    Hot Cue  |    Auto     | Fader Cuts  |    Sample   |
+|     |       |             |             |             |             |
+| Shift+Mode  |    9-16     |    Loop     | Tansport    |    1-8      |
 |    | • (LED |             |             |             |             |
-|      Slow   |             |             |             |             |
+|      On)    |             |             |             |             |
+|             |             |             |             |             |
++-------------+-------------+-------------+-------------+-------------+
+| Shift       |    Hot Cue  |    Roll     |    Fader    |    Sample   |
+|     |       |             |             |             |             |
+| Shift+Mode  |    9-16     |    Loop     |    Cuts 8   |    9-16     |
+|    | • (LED |             |             |             |             |
+|      SLow   |             |             |             |             |
 |      Blink) |             |             |             |             |
 +-------------+-------------+-------------+-------------+-------------+
-|    |        |    Beat     |    Cue Loop |    | Fader  |    Pitch    |
-| Alternative |    Jump     |             |      Cuts   |    Play     |
-|    | H      |             |             |    | Roll   |             |
-| old/D-Click |             |             |      Rev    |             |
+| Alternative |    Beat     |    Cue Loop |    | Fader  |    Pitch    |
+|     |       |    Jump     |             |      Cuts   |    Play     |
+|             |             |             |    | Roll   |             |
+| Hold/D-Click|             |             |      Rev    |             |
 |    | Mode   |             |             |      Key    |             |
 |      button |             |             |      Tempo  |             |
 |    | • (LED |             |             |             |             |
@@ -803,7 +809,10 @@ Fader Cuts Mode & Layers
 |                                   |    is only accessible by setting  |
 |                                   |    a code variable                |
 |                                   |    M                              |
-|                                   |MixtrackPlatinumFX.tapChangesTempo |
+|                                   |                                   |
+|                                   | MixtrackPlatinumFX.tapChangesTempo|
+|                                   |                                   |
+|                                   |                                   |
 |                                   |    to false, recommended only for |
 |                                   |    advanced users                 |
 +===================================+===================================+
