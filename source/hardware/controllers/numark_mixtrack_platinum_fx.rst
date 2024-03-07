@@ -22,7 +22,7 @@ Mixtrack Platinum FX is a 24-bit 4-deck digital DJ controller with a dedicated s
 Overview
 --------
 
-.. figure:: ../../_static/controllers/numark_mixtrack_platinum_fx_toprow.png
+.. figure:: ../../_static/controllers/numark_mixtrack_platinum_fx_toprow.svg
    :align: center
    :width: 100%
    :figwidth: 100%
@@ -77,7 +77,7 @@ Index
 
 Control Mapping
 
-.. figure:: ../../_static/controllers/numark_mixtrack_platinum_fx.png
+.. figure:: ../../_static/controllers/numark_mixtrack_platinum_fx.svg
    :align: center
    :width: 100%
    :figwidth: 100%
