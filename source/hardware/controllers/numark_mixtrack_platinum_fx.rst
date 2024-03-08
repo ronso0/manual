@@ -82,7 +82,7 @@ Control Mapping
    :figclass: pretty-figures
 
 
-Numark Mixtrack Platinum FX (Controls Condensed)
+**Numark Mixtrack Platinum FX (Controls Condensed)** 
 
 +-----------------------+-----------------------+-----------------------+
 | Ctr                   |    Default Function   |    Shift Function     |
@@ -511,14 +511,15 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 
 ..
 
-   | Performance Pad Modes
-   | The pads are for controlling cue’s, loops, and samples via various
-     modes. To select a mode, select a Pad Mode button (Cue, Auto Loop,
-     Fader Cuts & Sample) to assign that functionality to the 8 pads. An
-     LED under the pad, indicates the currently selected mode.
+**Performance Pad Modes**
 
-   Further to the NORMAL Pad Mode, 2 additional layers of functionality,
-   SHIFT & ALTERNATE is also provided, as shown in the matrix below.
+The pads are for controlling cue’s, loops, and samples via various
+modes. To select a mode, select a Pad Mode button (Cue, Auto Loop,
+Fader Cuts & Sample) to assign that functionality to the 8 pads. An
+LED under the pad, indicates the currently selected mode.
+
+Further to the NORMAL Pad Mode, 2 additional layers of functionality,
+SHIFT & ALTERNATE is also provided, as shown in the matrix below.
 
 +-------------+-------------+-------------+-------------+-------------+
 |    Mode     |    Cue      |    Auto     |    Fader    |    Samples  |
@@ -551,10 +552,10 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 
 ..
 
-NOTE: Within these modes initiated by SHIFT, the SHIFT button can be
+**NOTE:** Within these modes initiated by SHIFT, the SHIFT button can be
 further used as an action or function for the individual pads.
 
-Pad Loop Lengths
+**Pad Loop Lengths**
 
 +-----------------+-----------------+-----------------+-----------------+
 |    | Pad 1      |    | Pad 2      |    | Pad 3      |    | Pad 4      |
@@ -564,7 +565,7 @@ Pad Loop Lengths
 |    | 1 beat     |    | 2 beat     |    | 4 beat     |    | 8 beat     |
 +-----------------+-----------------+-----------------+-----------------+
 
-Cue Mode & Layers
+**Cue Mode & Layers**
 
 +-----------------------+-----------------------+-----------------------+
 |    Mode               |    Pad Function       |    Shift function     |
@@ -607,7 +608,7 @@ Cue Mode & Layers
 |                       |                       |    Lengths            |
 +-----------------------+-----------------------+-----------------------+
 
-Auto Loop Mode & Layers
+**Auto Loop Mode & Layers**
 
 +-----------------------+-----------------------+-----------------------+
 |    Mode               |    Pad function       |    Shift function     |
@@ -664,7 +665,7 @@ Auto Loop Mode & Layers
 |                       |    double.            |                       |
 +-----------------------+-----------------------+-----------------------+
 
-Fader Cuts Mode & Layers
+**Fader Cuts Mode & Layers**
 
 +-----------------------+-----------------------+-----------------------+
 |    Mode               |    Pads function      |    Shift (as Pad      |
@@ -724,7 +725,7 @@ Fader Cuts Mode & Layers
 
 ..
 
-Sample Mode & Layers
+**Sample Mode & Layers**
 
 +-----------------------+-----------------------+-----------------------+
 |    Mode               |    Pads function      |    Shift function     |
@@ -767,7 +768,7 @@ Sample Mode & Layers
 
 ..
 
-Advanced User Section
+**Advanced User Section**
 ----------------------
 
 For advanced users, alternative functions exist in the code, by
