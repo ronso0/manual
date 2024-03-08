@@ -81,7 +81,7 @@ Control Mapping
 **Numark Mixtrack Platinum FX (Controls Condensed)** 
 
 +-----------------------+-----------------------+-----------------------+
-| Ctr                   |    Default Function   |    Shift Function     |
+|                       |    Default Function   |    Shift Function     |
 +=======================+=======================+=======================+
 |  1.                   |    | Browse Knob:     |    | Speed Scrolling  |
 |                       |    | Rotate this knob |    | SHIFT + Rotate   |
