@@ -59,7 +59,7 @@ Index
    |  **Audio Interface**
    | Configure Mixxx's Master output for channels 1-2 and Headphones
      output for Channels 3-4.
-
+   | 
    | The microphone input on this controller is not available to the
      computer through the controller’s audio interface. It is mixed with
      the master output in hardware, so this controller’s audio interface
