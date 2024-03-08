@@ -57,15 +57,15 @@ Index
 -------------------------------------
 
    |  **Audio Interface**
-   | Configure Mixxxs’ Master output for channels 1-2 and Headphones
-   output for Channels 3-4.
+   | Configure Mixxx's Master output for channels 1-2 and Headphones
+     output for Channels 3-4.
 
-   The microphone input on this controller is not available to the
-   computer through the controller’s audio interface. It is mixed with
-   the master output in hardware, so this controller’s audio interface
-   is not suitable for broadcasting or recording the inputs. If you want
-   to use the controller for broadcasting or recording, a separatewith a
-   microphone input is suggested.
+   | The microphone input on this controller is not available to the
+     computer through the controller’s audio interface. It is mixed with
+     the master output in hardware, so this controller’s audio interface
+     is not suitable for broadcasting or recording the inputs. If you want
+     to use the controller for broadcasting or recording, a separatewith a
+     microphone input is suggested.
 
 Control Mapping
 ---------------
