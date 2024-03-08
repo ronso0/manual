@@ -803,45 +803,45 @@ Advanced User Section
 
 ..
 
-   For the default, the MIXXX common function takes taps and averages
-   them. If you don't tap for 2 seconds the average resets and you start
-   again. To prevent accidental double taps or misses if a tap is 40%
-   shorter or 80% longer it will be ignored. I found while testing
-   sometimes if I got the first two taps wrong the rest would be
-   rejected by the filter, but it wasn't obvious this was happening. By
-   default the button is dimly lit (like most others). When you tap the
-   button if it accepts the tap it will go bright, if it rejects it from
-   the filter it will show off. If this happens stop tapping wait 2
-   seconds for the filter to clear and try again. Fixed this kicking in
-   after 8 taps.
+For the default, the MIXXX common function takes taps and averages
+them. If you don't tap for 2 seconds the average resets and you start
+again. To prevent accidental double taps or misses if a tap is 40%
+shorter or 80% longer it will be ignored. I found while testing
+sometimes if I got the first two taps wrong the rest would be
+rejected by the filter, but it wasn't obvious this was happening. By
+default the button is dimly lit (like most others). When you tap the
+button if it accepts the tap it will go bright, if it rejects it from
+the filter it will show off. If this happens stop tapping wait 2
+seconds for the filter to clear and try again. Fixed this kicking in
+after 8 taps.
 
-   For tapping we have to "guess" which deck is intended, so we use some
-   pointers.
+For tapping we have to "guess" which deck is intended, so we use some
+pointers.
 
-   1.we'll only consider loaded decks
+1. We'll only consider loaded decks
 
-   2.except in fallback we'll only consider decks on the "active" layer
+2. Except in fallback we'll only consider decks on the "active" layer
    (unless neither on this layer are loaded)
 
-   3.If one deck has PFL and the other doesn't we use that one
+3. If one deck has PFL and the other doesn't we use that one
    (assumption that tapping bpm will be on a non playout deck)
 
-   4.If both have the same PFL state then look if one is playing.
+4. If both have the same PFL state then look if one is playing.
    Currently prefers the one that IS playing, could argue this the other
    way?
 
-   5.If they both match then use the one with the lowest deck number
+5. If they both match then use the one with the lowest deck number
 
-   To help know which it is using when tapping BOTH up and down arrows
-   on the deck are lit. As the first tap doesn't make any changes (you
-   can't work out a bpm from one tap) it is safe to tap and hold the
-   button and check which deck the arrows are showing on.
+To help know which it is using when tapping BOTH up and down arrows
+on the deck are lit. As the first tap doesn't make any changes (you
+can't work out a bpm from one tap) it is safe to tap and hold the
+button and check which deck the arrows are showing on.
 
-   MixtrackPlatinumFX.tapChangesTempo to false, recommended only for
-   advanced users. The pads are for controlling cue’s, loops, and
-   samples via various modes & layers. To select a mode, select a Pad
-   Mode button (Cue, Auto Loop, Fader Cuts & Sample) to assign that
-   functionality to the 8 pads. An LED under the pad section indicates
-   the currently selected
+MixtrackPlatinumFX.tapChangesTempo to false, recommended only for
+advanced users. The pads are for controlling cue’s, loops, and
+samples via various modes & layers. To select a mode, select a Pad
+Mode button (Cue, Auto Loop, Fader Cuts & Sample) to assign that
+functionality to the 8 pads. An LED under the pad section indicates
+the currently selected
 
 .. Credit to PopHippy for creating the original PDF file.
