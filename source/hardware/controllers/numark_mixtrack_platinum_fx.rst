@@ -56,7 +56,7 @@ Index
 
 -------------------------------------
 
-   |  **Audio Interface**
+   | **Audio Interface**
    | Configure Mixxx's Master output for channels 1-2 and Headphones
      output for Channels 3-4.
    | 
