@@ -111,8 +111,6 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 |                       |      microphone       |                       |
 |                       |      input.           |                       |
 +-----------------------+-----------------------+-----------------------+
-
-+-----------------------+-----------------------+-----------------------+
 |    4.                 |    | Cue Mix:         |                       |
 |                       |    | Adjusts the      |                       |
 |                       |      audio output to  |                       |
@@ -121,7 +119,7 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 |                       |      the cue output   |                       |
 |                       |      and the master   |                       |
 |                       |      mix output.      |                       |
-+=======================+=======================+=======================+
++-----------------------+-----------------------+-----------------------+
 |    5.                 |    | Cue Gain:        |                       |
 |                       |    | Adjusts the      |                       |
 |                       |      volume for       |                       |
@@ -205,8 +203,6 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 |                       |      blend between    |                       |
 |                       |      the two decks.   |                       |
 +-----------------------+-----------------------+-----------------------+
-
-+-----------------------+-----------------------+-----------------------+
 | 16.                   |    | Pitch Fader:     |                       |
 |                       |    | This controls    |                       |
 |                       |      the speed of the |                       |
@@ -217,7 +213,7 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 |                       |      moving towards   |                       |
 |                       |      the "–" will     |                       |
 |                       |      slow it down.    |                       |
-+=======================+=======================+=======================+
++-----------------------+-----------------------+-----------------------+
 | 17.                   | 17. Pitch Bend Down:  |    | Pitch Range      |
 |                       | Press and hold to     |    | Hold Shift and   |
 |                       | momentarily reduce    |      this button to   |
@@ -281,8 +277,6 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 |                       |      manually entered |                       |
 |                       |      tempo.           |                       |
 +-----------------------+-----------------------+-----------------------+
-
-+-----------------------+-----------------------+-----------------------+
 | 24.                   | 24. Platter/Jog       |    | Scrub Scroll     |
 |                       | Wheel:                |    | Scrub Scrolling  |
 |                       | This capacitive,      |      while holding    |
@@ -307,7 +301,7 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 |                       | outer wheel, to bend  |                       |
 |                       | the pitch of the      |                       |
 |                       | track.                |                       |
-+=======================+=======================+=======================+
++-----------------------+-----------------------+-----------------------+
 | 25.                   | | 25. Deck Display:   |                       |
 |                       | | 1. Active Deck:     |                       |
 |                       |   Indicates the       |                       |
@@ -390,8 +384,6 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 |                       |      first along with |                       |
 |                       |      other buttons.   |                       |
 +-----------------------+-----------------------+-----------------------+
-
-+-----------------------+-----------------------+-----------------------+
 | 28.                   |    | Sync:            |    | Sync Deactivate  |
 |                       |    | Press this       |    | Press again to   |
 |                       |      button to        |      deactivate Sync. |
@@ -404,7 +396,7 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 |                       |      tempo.           |                       |
 |                       |                       |                       |
 |                       |    Hold: Locks sync   |                       |
-+=======================+=======================+=======================+
++-----------------------+-----------------------+-----------------------+
 | 29.                   |    | Cue              |    | Cue Track Start  |
 |                       |    | Sets and recalls |    | Return cue head  |
 |                       |      the main Cue     |      to beginning of  |
@@ -458,8 +450,6 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 |                       |    \*See Performance  |                       |
 |                       |    Pad Modes          |                       |
 +-----------------------+-----------------------+-----------------------+
-
-+-----------------------+-----------------------+-----------------------+
 | 33.                   | | 33. Fader Cuts      |    SHIFT: Each pad    |
 |                       |   (Pad):              |    triggers an roll   |
 |                       | | With this Pad mode, |    of a different     |
@@ -472,7 +462,7 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 |                       |                       |                       |
 |                       |    \*See Performance  |                       |
 |                       |    Pad Modes          |                       |
-+=======================+=======================+=======================+
++-----------------------+-----------------------+-----------------------+
 | 34.                   | | 34. Sampler (Pad):  |    | SHIFT: Selects   |
 |                       | | With this Pad mode, |      layer 2 of       |
 |                       |   each pad triggers a |      samples -        |
