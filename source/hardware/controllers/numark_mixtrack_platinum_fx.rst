@@ -549,10 +549,10 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 
 ..
 
-   NOTE: Within these modes initiated by SHIFT, the SHIFT button can be
-   further used as an action or function for the individual pads.
+NOTE: Within these modes initiated by SHIFT, the SHIFT button can be
+further used as an action or function for the individual pads.
 
-   Pad Loop Lengths
+Pad Loop Lengths
 
 +-----------------+-----------------+-----------------+-----------------+
 |    | Pad 1      |    | Pad 2      |    | Pad 3      |    | Pad 4      |
@@ -722,7 +722,7 @@ Fader Cuts Mode & Layers
 
 ..
 
-   Sample Mode & Layers
+Sample Mode & Layers
 
 +-----------------------+-----------------------+-----------------------+
 |    Mode               |    Pads function      |    Shift function     |
@@ -765,7 +765,7 @@ Fader Cuts Mode & Layers
 
 ..
 
-   Advanced User Section
+Advanced User Section
 
    For advanced users, alternative functions exist in the code, by
    accessing and setting a code variable.
