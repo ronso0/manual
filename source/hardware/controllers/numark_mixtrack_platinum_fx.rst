@@ -1,7 +1,4 @@
-.. Credit to PopHippy for creating the original PDF file.
-
 Numark Mixtrack Platinum FX
-
 ==============================
 
 -  `Manufacturer’s product page <https://www.numark.com/product/mixtrack-platinum-fx>`__
@@ -861,6 +858,4 @@ Fader Cuts Mode & Layers
    functionality to the 8 pads. An LED under the pad section indicates
    the currently selected
 
-   Further to the Normal Pad Modes, 2 additional layers of
-   functionality, SHIFT & ALTERNATE is also provided as shown in matrix
-   below.
+.. Credit to PopHippy for creating the original PDF file.
