@@ -26,8 +26,6 @@ Overview
    :alt: Numark Mixtrack Playinum FX (schematic view)
    :figclass: pretty-figures
 
----------------
-
    Mapping Manual for NUMARK MIXTRACK PLATINUM FX
 
 Index
