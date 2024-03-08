@@ -214,19 +214,19 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 |                       |      the "–" will     |                       |
 |                       |      slow it down.    |                       |
 +-----------------------+-----------------------+-----------------------+
-| 17.                   | 17. Pitch Bend Down:  |    | Pitch Range      |
+| 17.                   | Pitch Bend Down:      |    | Pitch Range      |
 |                       | Press and hold to     |    | Hold Shift and   |
 |                       | momentarily reduce    |      this button to   |
 |                       | the speed of the      |      adjust.          |
 |                       | track.                |                       |
 +-----------------------+-----------------------+-----------------------+
-| 18.                   | 18. Pitch Bend Up:    |    | Keylock          |
+| 18.                   | Pitch Bend Up:        |    | Keylock          |
 |                       | Press and hold to     |    | Hold Shift and   |
 |                       | momentarily increase  |      this button to   |
 |                       | the speed of the      |      activate         |
 |                       | track.                |                       |
 +-----------------------+-----------------------+-----------------------+
-| 19.                   | 19. Beats Multiplier: |    | FX Macros        |
+| 19.                   | Beats Multiplier:     |    | FX Macros        |
 |                       | Increases and         |    | Selects and      |
 |                       | decreases the rate of |      controls FX      |
 |                       | the effects to the    |      Macros           |
@@ -235,12 +235,12 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 |                       | this knob adjusts its |                       |
 |                       | time division.        |                       |
 +-----------------------+-----------------------+-----------------------+
-| 20.                   | 20. FX Wet/Dry Knob:  |                       |
+| 20.                   | FX Wet/Dry Knob:      |                       |
 |                       | Turn this knob to     |                       |
 |                       | adjust the wet/dry    |                       |
 |                       | mix of the effects.   |                       |
 +-----------------------+-----------------------+-----------------------+
-| 21.                   | 21. Software FX:      |    | Multiple FX (at  |
+| 21.                   | Software FX:          |    | Multiple FX (at  |
 |                       | Press one of these    |      once)            |
 |                       | buttons to select a   |    | Hold shift and   |
 |                       | software effect. •    |      select multiple  |
@@ -250,7 +250,7 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 |                       | Flanger • Echo •      |                       |
 |                       | Reverb • Phaser       |                       |
 +-----------------------+-----------------------+-----------------------+
-| 22.                   | 22. FX Toggle On /    |                       |
+| 22.                   | FX Toggle On /        |                       |
 |                       | Off:                  |                       |
 |                       | Push up on the toggle |                       |
 |                       | switch to latch       |                       |
@@ -277,7 +277,7 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 |                       |      manually entered |                       |
 |                       |      tempo.           |                       |
 +-----------------------+-----------------------+-----------------------+
-| 24.                   | 24. Platter/Jog       |    | Scrub Scroll     |
+| 24.                   | Platter/Jog           |    | Scrub Scroll     |
 |                       | Wheel:                |    | Scrub Scrolling  |
 |                       | This capacitive,      |      while holding    |
 |                       | touch-sensitive jog   |      Jog wheel.       |
@@ -302,11 +302,12 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 |                       | the pitch of the      |                       |
 |                       | track.                |                       |
 +-----------------------+-----------------------+-----------------------+
-| 25.                   | | 25. Deck Display:   |                       |
-|                       | | 1. Active Deck:     |                       |
-|                       |   Indicates the       |                       |
-|                       |   currently active    |                       |
-|                       |   deck.               |                       |
+| 25.                   | | Deck Display:       |                       |
+|                       |                       |                       |
+|                       |    1. Active Deck:    |                       |
+|                       |    Indicates the      |                       |
+|                       |    currently active   |                       |
+|                       |    deck.              |                       |
 |                       |                       |                       |
 |                       |    2. Platter         |                       |
 |                       |    Position: Displays |                       |
