@@ -6,6 +6,8 @@ Numark Mixtrack Platinum FX
 
 Mixtrack Platinum FX is a 24-bit 4-deck digital DJ controller with a dedicated software effects section, large 6-inch capacitive-touch jog wheels with built in hi-res displays and 16-multifunctional performance pads.
 
+.. version:: 1.0
+
 Firmware
 --------
 
