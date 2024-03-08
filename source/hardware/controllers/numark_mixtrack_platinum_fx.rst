@@ -31,27 +31,22 @@ Overview
 Index
 -----
 
-   | 1.Numark Mixtrack Platinum FX links
-   | 2.Overview
-   | 3.Audio Interface
-   | 4.Firmware
-   | 5.Control Mapping
-   | 6.Performance Pad Modes
+   | 1.Overview
+   | 2.Audio Interface
+   | 3.Firmware
+   | 4.Control Mapping
+   | 5.Performance Pad Modes
    | a.Pad Loop Timings
    | b.Cue Mode & Layers
    | c.Auto Loop Mode & Layers
    | d.Fade Cuts Mode & Layers
    | e.Sample Mode & Layers
-   | 7.Advanced User Section
-   | 8.Notes
+   | 6.Advanced User Section
+   | 7.Notes
 
 -------------------------------------
 
-   Numark Mixtrack Platinum FX
-
--------------------------------------
-
-   | Overview
+   | **Overview**
    | The pads are for controlling cue’s, loops, and The Numark Mixtrack
      Platinum FX is a 2 channel (with 4 channel layering) entry level DJ
      controller with an integrated audio interface. The stand out
@@ -59,8 +54,10 @@ Index
      into the jog wheels. It is a USB Audio and MIDI Class compliant
      device and works with Linux, macOS, and Windows.
 
-   Audio Interface
+-------------------------------------
 
+   |  **Audio Interface**
+   | 
    Configure Mixxxs’ Master output for channels 1-2 and Headphones
    output for Channels 3-4.
 
