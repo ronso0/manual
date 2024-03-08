@@ -85,7 +85,7 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 +-----------------------+-----------------------+-----------------------+
 | Ctr                   |    Default Function   |    Shift Function     |
 +=======================+=======================+=======================+
-|    1.                 |    | Browse Knob:     |    | Speed Scrolling  |
+|  1.                   |    | Browse Knob:     |    | Speed Scrolling  |
 |                       |    | Rotate this knob |    | SHIFT + Rotate   |
 |                       |      to cycle through |    | Directory        |
 |                       |      folders and      |      Open/Close SHIFT |
@@ -100,18 +100,18 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 |                       |      through tracks   |                       |
 |                       |      and folders.     |                       |
 +-----------------------+-----------------------+-----------------------+
-|    2.                 |    | Master Gain:     |                       |
+|  2.                   |    | Master Gain:     |                       |
 |                       |    | Adjusts the      |                       |
 |                       |      master volume in |                       |
 |                       |      the software.    |                       |
 +-----------------------+-----------------------+-----------------------+
-|    3.                 |    | Mic Gain:        |                       |
+|  3.                   |    | Mic Gain:        |                       |
 |                       |    | Adjusts the      |                       |
 |                       |      level for the    |                       |
 |                       |      microphone       |                       |
 |                       |      input.           |                       |
 +-----------------------+-----------------------+-----------------------+
-|    4.                 |    | Cue Mix:         |                       |
+|  4.                   |    | Cue Mix:         |                       |
 |                       |    | Adjusts the      |                       |
 |                       |      audio output to  |                       |
 |                       |      the headphones,  |                       |
@@ -120,19 +120,19 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 |                       |      and the master   |                       |
 |                       |      mix output.      |                       |
 +-----------------------+-----------------------+-----------------------+
-|    5.                 |    | Cue Gain:        |                       |
+|  5.                   |    | Cue Gain:        |                       |
 |                       |    | Adjusts the      |                       |
 |                       |      volume for       |                       |
 |                       |      headphone        |                       |
 |                       |      cueing.          |                       |
 +-----------------------+-----------------------+-----------------------+
-|    6.                 |    Master Output      |                       |
+|  6.                   |    Master Output      |                       |
 |                       |    LEDs: Displays the |                       |
 |                       |    audio level going  |                       |
 |                       |    to the Master      |                       |
 |                       |    Output.            |                       |
 +-----------------------+-----------------------+-----------------------+
-|    7.                 |    | Load:            |    | Eject Deck       |
+|  7.                   |    | Load:            |    | Eject Deck       |
 |                       |    | Press one of     |    | Removes the      |
 |                       |      these buttons    |      track from       |
 |                       |      while a track is |      related deck.    |
@@ -146,33 +146,33 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 |                       |      the same track   |                       |
 |                       |      on both decks.   |                       |
 +-----------------------+-----------------------+-----------------------+
-|    **8.**             |    Level: Adjusts the |                       |
+|  8.                   |    Level: Adjusts the |                       |
 |                       |    pre-fader, pre-EQ  |                       |
 |                       |    audio level of the |                       |
 |                       |    corresponding      |                       |
 |                       |    channel.           |                       |
 +-----------------------+-----------------------+-----------------------+
-|    **9.**             |    High EQ: Controls  |                       |
+|  9.                   |    High EQ: Controls  |                       |
 |                       |    the treble         |                       |
 |                       |    frequencies for    |                       |
 |                       |    the individual     |                       |
 |                       |    channels           |                       |
 +-----------------------+-----------------------+-----------------------+
-| **10.**               |    | Mid EQ:          |                       |
+|  10.                  |    | Mid EQ:          |                       |
 |                       |    | Controls the     |                       |
 |                       |      mid-range        |                       |
 |                       |      frequencies for  |                       |
 |                       |      the individual   |                       |
 |                       |      channels.        |                       |
 +-----------------------+-----------------------+-----------------------+
-| **11.**               |    | Low EQ:          |                       |
+|  11.                  |    | Low EQ:          |                       |
 |                       |    | Controls the     |                       |
 |                       |      bass frequencies |                       |
 |                       |      for the          |                       |
 |                       |      individual       |                       |
 |                       |      channels         |                       |
 +-----------------------+-----------------------+-----------------------+
-| **12.**               |    | Filter:          |                       |
+|  12.                  |    | Filter:          |                       |
 |                       |    | Adjusts the      |                       |
 |                       |      amount of the    |                       |
 |                       |      filter effect.   |                       |
@@ -184,21 +184,21 @@ Numark Mixtrack Platinum FX (Controls Condensed)
 |                       |      filter,          |                       |
 |                       |      respectively.    |                       |
 +-----------------------+-----------------------+-----------------------+
-| **13.**               |    | Cue/PFL:         |    | Slip Mode        |
+| 13.                   |    | Cue/PFL:         |    | Slip Mode        |
 |                       |    | Sends pre-fader  |      (On/Off)         |
 |                       |      audio to the cue |    | Toggles slip     |
 |                       |      channel for      |      mode on/off for  |
 |                       |      headphone        |      related deck.    |
 |                       |      monitoring.      |                       |
 +-----------------------+-----------------------+-----------------------+
-| **14.**               |    | Channel Fader:   |                       |
+| 14.                   |    | Channel Fader:   |                       |
 |                       |    | Adjusts the      |                       |
 |                       |      volume of the    |                       |
 |                       |      individual       |                       |
 |                       |      channels in the  |                       |
 |                       |      software.        |                       |
 +-----------------------+-----------------------+-----------------------+
-| **15.**               |    | Crossfader:      |                       |
+| 15.                   |    | Crossfader:      |                       |
 |                       |    | Controls the     |                       |
 |                       |      blend between    |                       |
 |                       |      the two decks.   |                       |
@@ -767,12 +767,9 @@ Fader Cuts Mode & Layers
    Advanced User Section
 
    For advanced users, alternative functions exist in the code, by
-   accessing and setting a code
-
-   variable.
+   accessing and setting a code variable.
 
    **TAPPING**
-
    Added logic for the tap button, Two modes exist:
 
 +-----------------------------------+-----------------------------------+
