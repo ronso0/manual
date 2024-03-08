@@ -29,6 +29,7 @@ Overview
    Mapping Manual for NUMARK MIXTRACK PLATINUM FX
 
 Index
+-----
 
    | 1.Numark Mixtrack Platinum FX links
    | 2.Overview
@@ -71,6 +72,7 @@ Index
    microphone input is suggested.
 
 Control Mapping
+---------------
 
 .. figure:: ../../_static/controllers/numark_mixtrack_platinum_fx.svg
    :align: center
@@ -766,24 +768,24 @@ Sample Mode & Layers
 ..
 
 Advanced User Section
+----------------------
 
-   For advanced users, alternative functions exist in the code, by
-   accessing and setting a code variable.
+For advanced users, alternative functions exist in the code, by
+accessing and setting a code variable.
 
-   **TAPPING**
-   Added logic for the tap button, Two modes exist:
+**TAPPING**
+Added logic for the tap button, Two modes exist:
 
 The default is to use the MIXXX common bpm.tapButton
 which sets the effective bpm to the one tapped using the 
 tempo adjust. Shift tap resets to 0 tempo change. 
 
 The alternative changes the actual file bpm. The problem 
-is the reset doesn't work, the best I can do is change the 
-effective bpm to the original, but then the file is still 
-"broken" next time it is loaded. The alternative mode 
-is only accessible by settin a code variable 
-MixtrackPlatinumFX.tapChangesTempo to false, recommended 
-only for advanced users.
+is the reset does not change the file back to the original bpm, the best 
+I can do is change the effective bpm to the original, but then the file is 
+still on the changed bpm next time it is loaded. The alternative mode is only 
+accessible by setting a code variable MixtrackPlatinumFX.tapChangesTempo to 
+false, recommended only for advanced users.
  
 ..
 
