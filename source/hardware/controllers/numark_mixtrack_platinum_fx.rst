@@ -272,6 +272,7 @@ Further to the NORMAL Pad Mode, 2 additional layers of functionality, SHIFT & AL
 
    "Normal", "**Fader Cuts (Pad 1-4)**
 
+
    The pads will mute and unmute the deck’s audio signal in a way that emulates crossfader movements toward that deck.
 
    (P1-4) Standard Fader Cuts
@@ -297,8 +298,9 @@ Further to the NORMAL Pad Mode, 2 additional layers of functionality, SHIFT & AL
    ":hwlabel:`SHIFT`", "(P1-4) Standard Fader Cuts
 
    (P5-8) Extended Fader Cuts", ""
+
    ":hwlabel:`Hold` or :hwlabel:`Double Click`
-`   
+
    Alternative", "(P1-4) Standard Fader Cuts
 
    (P5) – Reverse Roll (Censor)
@@ -323,7 +325,7 @@ Further to the NORMAL Pad Mode, 2 additional layers of functionality, SHIFT & AL
    "Normal", "(P1-8) Play Sample", "**Stop Playback/Load Sample**
 
    Hold and selecting pad, Stop Playback or Load Sample if the slot is empty."
-   "Shift", "(P9-16) Play Sample", "S**top Playback/Load Sample**
+   ":hwlabel:`SHIFT`", "(P9-16) Play Sample", "S**top Playback/Load Sample**
 
    Hold and selecting pad, Stop Playback or Load Sample if the slot is empty."
    ":hwlabel:`Hold` or :hwlabel:`Double Click`
