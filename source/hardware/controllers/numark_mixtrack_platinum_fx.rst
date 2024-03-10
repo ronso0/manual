@@ -56,7 +56,7 @@ The mapping requires the following Soft/Firmware for all enabled features to wor
 
    "1", "Browse Knob (Rotate)", "Rotate this knob to cycle through folders and tracks."
    "1", "Browse Knob (Press)", "Cycle between the Crates and Library."
-   "1", ":hwlabel:`SHIFT`Browse Knob (Rotate)", "Speed Scrolling"
+   "1", ":hwlabel:`SHIFT` Browse Knob (Rotate)", "Speed Scrolling"
    "1", ":hwlabel:`LEFT SHIFT` Browse Knob (Press)", "Open/Close Directory"
    "1", ":hwlabel:`RIGHT SHIFT` Browse Knob (Press)", "Preview Play/Stop Track"
    "2", "Master Gain", "Adjusts the master volume in the software."
@@ -73,7 +73,7 @@ The mapping requires the following Soft/Firmware for all enabled features to wor
    "11", "Low EQ", "Controls the bass frequencies for the individual channels."
    "12", "Filter", "Adjusts the amount of the filter effect. Turning the knob left and right will produce a lowpass filter and high-pass filter, respectively."
    "13", "Cue/PFL", "Sends pre-fader audio to the cue channel forheadphone monitoring. "
-   "13", ":hwlabel:`SHIFT`Slip Mode", "Toggles slip mode on/off for related deck."
+   "13", ":hwlabel:`SHIFT` Slip Mode", "Toggles slip mode on/off for related deck."
    "14", "Channel Fader", "Adjusts the volume of the individual channels in the software."
    "15", "Crossfader", "Controls the blend between the two decks"
    "16", "Pitch Fader", "This controls the speed of the music. Moving towards the + will speed the music up, while moving towards the – will slow it down."
