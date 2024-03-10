@@ -222,7 +222,7 @@ Further to the NORMAL Pad Mode, 2 additional layers of functionality, SHIFT & AL
    Same as Normal mode", "**Remove Cue**
 
    Hold and selecting pad, removes that cue point."
-   ":hwlabel:`Hold` or :hwlabel:`Double Click
+   ":hwlabel:`Hold` or :hwlabel:`Double Click`
 
    Alternative", "**Beat Jump**
 
@@ -253,7 +253,7 @@ Further to the NORMAL Pad Mode, 2 additional layers of functionality, SHIFT & AL
    Performs a standard Auto Loop, but when the loop is turned off the playback position is returned to the position where it would be, if it had not entered the loop.", "**Auto Loop**
 
    Hold and selecting pad, Activates a loop section of pre-determined pad beat lengths, which loops automatically."
-   ":hwlabel:`Hold` or :hwlabel:`Double Click
+   ":hwlabel:`Hold` or :hwlabel:`Double Click`
 
    Alternative", "**Cue Loop**
 
@@ -297,8 +297,8 @@ Further to the NORMAL Pad Mode, 2 additional layers of functionality, SHIFT & AL
    ":hwlabel:`SHIFT`", "(P1-4) Standard Fader Cuts
 
    (P5-8) Extended Fader Cuts", ""
-   ":hwlabel:`Hold` or :hwlabel:`Double Click
-   
+   ":hwlabel:`Hold` or :hwlabel:`Double Click`
+`   
    Alternative", "(P1-4) Standard Fader Cuts
 
    (P5) – Reverse Roll (Censor)
@@ -326,7 +326,7 @@ Further to the NORMAL Pad Mode, 2 additional layers of functionality, SHIFT & AL
    "Shift", "(P9-16) Play Sample", "S**top Playback/Load Sample**
 
    Hold and selecting pad, Stop Playback or Load Sample if the slot is empty."
-   ":hwlabel:`Hold` or :hwlabel:`Double Click
+   ":hwlabel:`Hold` or :hwlabel:`Double Click`
 
    Alternative", "**Pitch Play (P1-4)**
 
