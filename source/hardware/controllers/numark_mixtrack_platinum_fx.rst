@@ -1,7 +1,7 @@
 Numark Mixtrack Platinum FX
 ==============================
 
-.. figure:: ../../_static/controllers/numark_mixtrack_platinum_fx_toprow.svg
+.. figure:: ../../_static/controllers/numark_mixtrack_platinum_fx_top.png
    :align: center
    :width: 100%
    :figwidth: 100%
