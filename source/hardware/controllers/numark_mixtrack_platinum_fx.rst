@@ -119,10 +119,10 @@ The mapping requires the following Soft/Firmware for all enabled features to wor
    "29", "Cue", "Sets and recalls the main Cue point in the current track. Hold down the Cue button for temporary play of the cue point. The track will play for as long as the button is held down and return to the cue point once it is released. Press Shift + Cue to return the play head"
    "29", ":hwlabel:`SHIFT` Cue Track Start", "Return cue head to beginning of track."
    "30", "Play/Pause", "Starts and suspends playback."
+   "30", ":hwlabel:`SHIFT` Beat Grid Adjust", "Adjust Beat Grid, Hold shift and this button to align closest beat to the current play position."
    "31", "Cue (Pad)", "With this Pad mode, each pad assigns a Hot Cue Point, or returns the track to that Hot Cue Point. When a pad is unlit, you can assign a Hot Cue Point by pressing it at the desired point in your track.
 
    *See Performance Pad Modes"
-   "31", ":hwlabel:`SHIFT` Beat Grid Adjust", "Adjust Beat Grid, Hold shift and this button to align closest beat to the current play position."
    "32", "Auto Loop (Pad)", "With this Pad mode, each pad triggers an auto loop of a different length.
 
    *See Performance Pad Modes"
