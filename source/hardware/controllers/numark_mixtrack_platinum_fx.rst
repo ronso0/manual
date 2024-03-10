@@ -275,16 +275,7 @@ Further to the NORMAL Pad Mode, 2 additional layers of functionality, SHIFT & AL
 
    The pads will mute and unmute the deck’s audio signal in a way that emulates crossfader movements toward that deck.
 
-   (P1-4) Standard Fader Cuts
-
-   (P1) - 1 Click Flare
-
-   (P2) – 2 Click Flare
-
-   (P3) – 3 Click Flare
-
-   (P4) – 4 Click Flare
-
+   (P1-4) Standard Fader Cuts (Click Flares)
 
    **(P5-8) Factory Functions**
 
