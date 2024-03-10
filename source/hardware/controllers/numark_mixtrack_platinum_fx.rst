@@ -163,7 +163,7 @@ The mapping requires the following Soft/Firmware for all enabled features to wor
    "37", "Loop 1/2", "Press this button when a loop is active to decrease the loop size by half."
    "37", ":hwlabel:`SHIFT` Loop In (Manual Loop)", "Set the Loop In point for a manual loop."
    "38", "Loop x2", "Press this button when a loop is active to double the loop size."
-   "88", ":hwlabel:`SHIFT` Loop Out (Manual Loop)", "Set the Loop Out point for a manual loop."
+   "38", ":hwlabel:`SHIFT` Loop Out (Manual Loop)", "Set the Loop Out point for a manual loop."
 ..
 
 **Performance Pad Modes**
