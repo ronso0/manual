@@ -147,7 +147,7 @@ The mapping requires the following Soft/Firmware for all enabled features to wor
    "34", ":hwlabel:`SHIFT` Sampler 9-16", "Selects layer 2 of samples - Performance pads then trigger samples 9-16."
    "34", ":hwlabel:`HOLD` or :hwlabel:`2X PRESS` 
 
-   Pitch Playt", "Pitch Play"
+   Pitch Play", "Pitch Play"
    "35", "Performance Pads", "The pads are used to trigger loop points or samples depending on the Pad mode setting.
 
    *See Performance Pad Modes"
