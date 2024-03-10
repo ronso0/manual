@@ -99,13 +99,21 @@ The mapping requires the following Soft/Firmware for all enabled features to wor
    "24", "Platter/Jog Wheel", "This capacitive, touch-sensitive jog wheel controls the audio when the wheel is touched and moved. When the Scratch button is not active, use the jog wheel to bend the pitch of the track. When the Scratch button is active, use the jog wheel to grab and move the audio, scratching the track as you would with a vinyl record. You can also grab the non-touch-sensitive outer wheel, to bend the pitch of the track."
    "24", ":hwlabel:`SHIFT` Scrub Scroll", "Scrub Scrolling while holding Jog wheel."
    "25", "Deck Display", "**1. Active Deck:** Indicates the currently active deck.
+
    **2. Platter Position:** Displays the current track position.
+
    **3. BPM:** Displays the current BPM for the selected track.
+
    **4. Keylock:** This icon illuminates when keylock is active for the current deck.
+
    **5. Pitch Range:** Shows the current pitch range.
+
    **6. Pitch:** Shows current pitch of the track.
+
    **7. Pitch Adjust:** Indicates the direction to move Pitch Fader to match the current track’s BPM with the track on the opposite deck.
+
    **8. Time Remaining:** Displays the time elapsed or time remaining for the current track. (Time elapsed only implemented in current mapping).
+
    **9. Time Bars:** Provides visual reference to time remaining on the selected song. When the song is almost over these segments will flash to give a warning."
    "26", "Scratch", "Press this button to turn on the scratch feature for the jog wheel. Hold Shift and press this button to select which Layer in the software is controlled by that hardware Deck. Deck 1 can control Layer 1 or 3; Deck 2 can control Layer 2 or 4."
    "26", ":hwlabel:`SHIFT` Deck Select", "Switch between decks 1 & 3 or 2 & 4 for 4 deck mixing"
