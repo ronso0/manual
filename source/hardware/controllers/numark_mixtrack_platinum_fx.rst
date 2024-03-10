@@ -102,7 +102,7 @@ The mapping requires the following Soft/Firmware for all enabled features to wor
 
    2. Platter Position: Displays the current track position.
    3. BPM: Displays the current BPM for the selected track.
-   4. Keylock: This icon illuminateswhen keylock is active for the current deck.
+   4. Keylock: This icon illuminates when keylock is active for the current deck.
    5. Pitch Range: Shows the current pitch range.
    6. Pitch: Shows current pitch of the track.
    7. Pitch Adjust: Indicates the direction to move Pitch Fader to match the current track’s BPM with the track on the opposite deck.
