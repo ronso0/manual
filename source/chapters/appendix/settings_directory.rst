@@ -78,4 +78,4 @@ Content
     This is used under macOS to track which files Mixxx will have access to
 
 **soundconfig.xml**
-    Sound device configuration from Preferences > Sound Hardware
+    Sound device configuration from Preferences --> Sound Hardware
