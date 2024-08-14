@@ -378,17 +378,17 @@ This will bear some similarity to what you will find on a DJ mixer (e.g. :term:`
 
 .. mixxx:control:: [Master],headMix
 
-   Adjusts the cue/main mix in the headphone output.
+   Adjusts the :term:`cue/main mix <head-mix-button>` in the headphone output.
 
    This is a :ref:`ControlPotMeter control <appendix-mixxxcontrols-controlpotmeter>`.
 
    :range: default
-   :feedback: Pre/Main knob
+   :feedback: :ref:`Headphone Mix knob <interface-head-main>`
 
 
 .. mixxx:control:: [Master],headSplit
 
-   Splits headphone stereo cueing into right (main mono) and left (:term:`PFL` mono).
+   Splits headphone stereo :term:`cueing <cueing>` into right (main mono) and left (:term:`PFL` mono).
 
    :range: binary
    :feedback: Split Cue button
@@ -2230,7 +2230,11 @@ Any control listed above for :mixxx:cogroupref:`[ChannelN]` will work for a samp
                    [PreviewDeckN],quantize
                    [SamplerN],quantize
 
-   Aligns Hot-cues and Loop In & Out to the next beat from the current position.
+   If enabled and the loaded track has beats, new :term:`cue markers <cue marker>`
+   and Loop In & Out markers are placed on the beat closest to the current position.
+
+   If quantize is also enabled on another playing deck, beats on both decks will be
+   aligned when a deck starts playing or when it's seeking to a cue or loop marker.
 
    :range: binary
    :feedback: Hot-cues or Loop In/Out markers
@@ -2694,7 +2698,8 @@ Any control listed above for :mixxx:cogroupref:`[ChannelN]` will work for a samp
                    [PreviewDeckN],vinylcontrol_cueing
                    [SamplerN],vinylcontrol_cueing
 
-   Determines how :term:`cue points <cue point>` are treated in vinyl control relative mode.
+   Determines how cue points (:term:`main cue<cue point>` and :term:`hotcues <hotcue>`)
+   are treated in vinyl control relative mode.
 
    :range:
       ===== =============================
