@@ -8,6 +8,15 @@ Effects
 Mixxx has a powerful sound effects system. Understanding how it works can open
 you up to a wide variety of mixing techniques.
 
+In :menuselection:`Preferences` -> :menuselection:`Effects` you can
+* select which effects are visible in the effect selectors
+* adjust in which order they are displayed
+* select which chain presets are available for standard and/or Quick Effect chains
+* rename, delete, import and export chain presets
+
+You can create new effect presets and effect chain presets from the built-in defaults and
+share them in the `Mixxx Effects forum <https://mixxx.discourse.group/c/effect-presets/17>`__.
+
 .. _effects-effect-unit:
 
 Effect Units
@@ -90,6 +99,12 @@ effect unit to reveal the effect parameters:
 
    An effect unit with parameters showing
 
+You can rearrange parameters with drag-and-drop. Drag a parameter label onto that of a parameter of the same type (knob or push button) to swap the two.
+This is helpful especially when using effects with more than three parameters of knob or button type in effect focus mode
+
+Meta knob linking
+-----------------
+
 You can customize how the metaknob is linked to the parameters by clicking the
 buttons below the parameter knobs. The button under the parameter name
 controls the metaknob link mode:
@@ -106,7 +121,8 @@ to the metaknob.
 
 For information about specific effects and their parameters, hover your mouse
 over them to show the tooltip. If you do not see tooltips, check that you have
-them enabled for the skin in :menuselection:`Preferences --> Interface`.
+them enabled for the skin in :menuselection:`Preferences --> Interface`. This
+information is also available in :menuselection:`Preferences` -> :menuselection:`Effects`.
 
 Effects (except for Reverb) that have a length of time as a parameter are
 synchronized to the tempo of decks.
@@ -180,14 +196,24 @@ Controller Effects Mapping
 
 .. _controller-effects-mapping-usage:
 
-Usage
------
 
 This section describes how to use the standard Mixxx mapping for effects sections on controllers with the typical layout of 4 knobs (or 3 knobs + 1 encoder) and 4 buttons for effects. It allows you to switch between controlling all 3 effects of a chain or controlling each parameter of one effect.
 
+.. figure:: ../_static/effects-section-controllers.png
+   :align: center
+   :alt: Effects controls section on a controller
+   :figclass: pretty-figures
+
+   Effects controls section on a controller
+
 By default, 3 knobs are used for controlling effect metaknobs and the buttons under them toggle each effect on/off. To temporarily toggle an effect on/off, press and hold an effect enable button. The 4th knob is used for the mix (dry/wet) knob of the whole chain. On controllers designed for Serato, the :guilabel:`Beats` encoder is used as the mix knob.
 
-The button next to the mix knob is used for focusing effects. On controllers designed for Serato, this button is labeled :guilabel:`Tap`. While holding this button pressed, the enable buttons for each effect switch to choosing which effect is focused. When an effect is focused:
+The button next to the mix knob is used for focusing effects. On controllers designed for Serato, this button is labeled :guilabel:`Tap`.
+
+Effect focus mode
+-----------------
+
+While holding the focus button pressed, the enable buttons for each effect switch to choosing which effect is focused. When an effect is focused:
 
    * the knobs switch to controlling the first 3 parameters of that effect instead of the metaknobs of each effect in the chain;
    * the buttons switch to controlling the first 3 button parameters of the effect; and
@@ -197,6 +223,9 @@ The LED of the focus button indicates whether any effect is focused. When its LE
 Alternatively, if you want to keep all the parameters showing on screen, you can press and hold the focus button, then press the button of the focused effect to unfocus it. Showing all the parameters without having an effect focused is helpful for experimenting with different ways of linking parameters to the metaknob.
 
 When the focus button is pressed with shift, it toggles the Effect Unit between controlling different :ref:`Effect Units <effects-effect-unit>` in Mixxx. Typically this is used to toggle between :ref:`Effect Units <effects-effect-unit>` 1 & 3 or 2 & 4, like deck toggle buttons.
+
+Select effects
+--------------
 
 To load different effects, hold shift and turn the knob for an effect.
 
